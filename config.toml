@@ -1,4 +1,4 @@
-baseurl = "http://czechh.github.io" # Controls base URL sitewide
+baseurl = "http://sergioprada.com" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Undecidable" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
