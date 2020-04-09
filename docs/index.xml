@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undecidable</title>
+    <link>Czechh.github.io/undecidable/</link>
+    <description>Recent content on Undecidable</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 21 Jan 2019 21:11:56 -0500</lastBuildDate>
+    
+	<atom:link href="Czechh.github.io/undecidable/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>Czechh.github.io/undecidable/post/intro/</link>
+      <pubDate>Mon, 21 Jan 2019 22:11:32 -0500</pubDate>
+      
+      <guid>Czechh.github.io/undecidable/post/intro/</guid>
+      <description>I&amp;rsquo;m a software engineer based in Brooklyn. This is my attempt of a site</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>Czechh.github.io/undecidable/about/</link>
+      <pubDate>Mon, 21 Jan 2019 21:11:56 -0500</pubDate>
+      
+      <guid>Czechh.github.io/undecidable/about/</guid>
+      <description>asda</description>
+    </item>
+    
+  </channel>
+</rss>
