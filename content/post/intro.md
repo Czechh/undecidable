@@ -11,5 +11,5 @@ images = [
 ] # overrides site-wide open graph image
 +++
 
-I'm a software engineer based in Brooklyn. This is my attempt of a site
+I'm a software engineer based in Brooklyn.
 

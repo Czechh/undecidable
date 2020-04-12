@@ -2,6 +2,7 @@ baseurl = "Czechh.github.io/undecidable/" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Undecidable" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
+publishDir = "docs"
 
 # Controls default theme and theme components
 theme = [
@@ -31,4 +32,3 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   enabled = true # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
 
-publishDir = "docs"
