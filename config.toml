@@ -15,7 +15,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
 pygmentsCodefences = true # Suggested, highlight fenced code blocks
 pygmentsUseClasses = true # Required for custom syntax highlighting
 
-sectionPagesMenu = "main" # Enable menu system for lazy bloggers
+# sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
 
 [params]
@@ -32,3 +32,22 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
   enabled = true # Optional, set false to disable module
   decoders = ["bpgdec8a"] # Optional, 8-bit javascript decoder with animation
 
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts"
+    weight = 3

@@ -3,48 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/after/</loc>
+    <loc>/</loc>
+    <lastmod>2020-04-12T22:11:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/index.html</loc>
+    <lastmod>2020-04-12T22:11:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ml/</loc>
+    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
     <lastmod>2019-01-21T22:11:32-05:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dark/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/hacking/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/intro/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-01-21T22:11:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2019-01-21T21:11:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-01-21T21:11:56-05:00</lastmod>
   </url>
   
 </urlset>

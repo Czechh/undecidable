@@ -12,12 +12,22 @@
     
     
     <item>
-      <title>Intro</title>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 21 Jan 2019 22:11:32 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m a software engineer based in Brooklyn.</description>
+    </item>
+    
+    <item>
+      <title>My first Machine Learning project</title>
       <link>/post/intro/</link>
       <pubDate>Mon, 21 Jan 2019 22:11:32 -0500</pubDate>
       
       <guid>/post/intro/</guid>
-      <description>I&amp;rsquo;m a software engineer based in Brooklyn.</description>
+      <description>I&amp;rsquo;ve always had a big interest for ML. But, the real first project I had professionally was a big one. I had to build an ML pipeline without any prior experience.
+First thing is understanding what problems I was solving. Initially, most of the problems were classification. I normally had a labeled dataset, using some text as a feature a label</description>
     </item>
     
   </channel>
