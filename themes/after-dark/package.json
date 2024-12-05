@@ -38,7 +38,7 @@
     "atom-one-chroma": "^2.0.0",
     "fuse.js": "^3.3.0",
     "hack": "^0.8.1",
-    "lazysizes": "^4.1.4",
+    "lazysizes": "^5.2.2",
     "lodash-cli": "^4.17.5",
     "mark.js": "^8.11.1",
     "smoothscroll-polyfill": "^0.4.3",
