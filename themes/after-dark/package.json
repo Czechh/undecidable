@@ -42,7 +42,7 @@
     "lodash-cli": "^4.17.5",
     "mark.js": "^8.11.1",
     "smoothscroll-polyfill": "^0.4.3",
-    "standard-version": "^4.4.0",
+    "standard-version": "^8.0.1",
     "toxic-swamp": "git+ssh://git@git.habd.as/comfusion/toxic-swamp.git#v0.1.0-alpha.0",
     "vue": "^2.5.16"
   },
